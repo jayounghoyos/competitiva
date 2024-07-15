@@ -7,4 +7,4 @@ Welcome to my competitive programming repository. This collection contains probl
 To simulate the vjudge problems, you can use the following command:
 
 ```bash
-cat file_name.txt | python3 file_name.py ```
+cat file_name.txt | python3 file_name.py
